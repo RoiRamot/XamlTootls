@@ -1,0 +1,56 @@
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\bin\Debug\XamlThemManager.exe.config
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\bin\Debug\XamlThemManager.exe
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\bin\Debug\XamlThemManager.pdb
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.csprojResolveAssemblyReference.cache
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\MainWindow.g.cs
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\App.g.cs
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager_MarkupCompile.cache
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager_MarkupCompile.lref
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\MainWindow.baml
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.g.resources
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.Properties.Resources.resources
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.csproj.GenerateResource.Cache
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.exe
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.pdb
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\App.baml
+c:\users\codevalue\documents\visual studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\Styles\1.baml
+C:\Users\CodeValue\Documents\Visual Studio 2013\Projects\XamlThemManager\XamlThemManager\obj\Debug\Styles\ThemBrushes.baml
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\bin\Debug\XamlThemManager.exe.config
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.exe
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.pdb
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\bin\Debug\XamlThemManager.exe
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\bin\Debug\XamlThemManager.pdb
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.csprojResolveAssemblyReference.cache
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\Styles\1.baml
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\Styles\ThemBrushes.baml
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\App.baml
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\MainWindow.g.cs
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\App.g.cs
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager_MarkupCompile.cache
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager_MarkupCompile.lref
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\MainWindow.baml
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.g.resources
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.Properties.Resources.resources
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.csproj.GenerateResource.Cache
+C:\Users\roi\Desktop\XamlThemManager\XamlThemManager\obj\Debug\Styles\Styles.baml
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\bin\Debug\XamlThemManager.exe.config
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.exe
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.pdb
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\bin\Debug\XamlThemManager.exe
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\bin\Debug\XamlThemManager.pdb
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\Styles\1.baml
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\Styles\Styles.baml
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\Styles\ThemBrushes.baml
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\App.baml
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\MainWindow.g.cs
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\App.g.cs
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager_MarkupCompile.cache
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager_MarkupCompile.lref
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\MainWindow.baml
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.g.resources
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.Properties.Resources.resources
+C:\Users\CodeValue\Desktop\XamlThemManager\XamlThemManager\XamlThemManager\obj\Debug\XamlThemManager.csproj.GenerateResource.Cache
