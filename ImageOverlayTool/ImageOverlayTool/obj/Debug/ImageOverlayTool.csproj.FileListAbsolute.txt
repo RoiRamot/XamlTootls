@@ -1,0 +1,15 @@
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\bin\Debug\ImageOverlayTool.exe.config
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\bin\Debug\ImageOverlayTool.exe
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\bin\Debug\ImageOverlayTool.pdb
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\obj\Debug\ImageOverlayTool.csprojResolveAssemblyReference.cache
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\obj\Debug\MainWindow.g.cs
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\obj\Debug\App.g.cs
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\obj\Debug\ImageOverlayTool_MarkupCompile.cache
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\obj\Debug\ImageOverlayTool_MarkupCompile.lref
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\obj\Debug\MainWindow.baml
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\obj\Debug\ImageOverlayTool.g.resources
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\obj\Debug\ImageOverlayTool.Properties.Resources.resources
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\obj\Debug\ImageOverlayTool.csproj.GenerateResource.Cache
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\obj\Debug\ImageOverlayTool.exe
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\obj\Debug\ImageOverlayTool.pdb
+C:\xaml tools\ImageOverlayTool\ImageOverlayTool\ImageOverlayTool\obj\Debug\GeneratedInternalTypeHelper.g.cs

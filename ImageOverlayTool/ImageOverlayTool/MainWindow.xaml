@@ -1,0 +1,66 @@
+﻿<Window x:Class="ImageOverlayTool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:imageOverlayTool="clr-namespace:ImageOverlayTool"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        x:Name="This"
+        Title="MainWindow"
+        AllowsTransparency="True"
+        Background="Transparent"
+        ResizeMode="CanResize"
+        Topmost="{Binding IsTopMost}"
+        WindowState="Maximized"
+        WindowStyle="None"
+        mc:Ignorable="d">
+    <Window.DataContext>
+        <imageOverlayTool:ViewModel />
+    </Window.DataContext>
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+    </Window.Resources>
+    <Window.Style>
+        <Style TargetType="{x:Type Window}">
+            <Setter Property="WindowChrome.WindowChrome">
+                <Setter.Value>
+                    <WindowChrome CaptionHeight="999999"
+                                  ResizeBorderThickness="1" />
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Window}">
+                        <Grid>
+                            <Border Background="Transparent">
+                                <ContentPresenter Content="{TemplateBinding Content}" />
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Style>
+    <DockPanel>
+        <Menu DockPanel.Dock="Top"
+              FontSize="16"
+              Padding="5"
+              WindowChrome.IsHitTestVisibleInChrome="True">
+            <MenuItem Command="{Binding LoadImageCommand}"
+                      Header="Change Picture" />
+            <CheckBox VerticalContentAlignment="Center"
+                      Content="Allways On Top"
+                      IsChecked="{Binding IsTopMost}" />
+            <TextBlock Text="Opacity: " />
+            <Slider x:Name="OpacitySlider"
+                    Width="200"
+                    VerticalAlignment="Center"
+                    Maximum="1"
+                    Minimum="0"
+                    Value="0.5" />
+        </Menu>
+        <Image Opacity="{Binding Value,
+                                 ElementName=OpacitySlider}"
+               Source="{Binding Image}"
+               Stretch="Uniform" />
+    </DockPanel>
+</Window>
